@@ -1,0 +1,15 @@
+# Git 元数据（避免误提交内嵌仓库）
+.git/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
