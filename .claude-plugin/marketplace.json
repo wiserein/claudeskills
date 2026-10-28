@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claudeskills",
+  "description": "学术科研场景的 Claude Code skill 合集：知网 CAJ 转 PDF、学术论文 AIGC 降重、数学建模（CUMCM）全流程。",
+  "owner": {
+    "name": "wiserein",
+    "url": "https://github.com/wiserein"
+  },
+  "plugins": [
+    {
+      "name": "caj2pdf",
+      "description": "读取和转换中国知网（CNKI）专有文献格式，支持 CAJ/KDH/NH 的元数据读取、PDF 转换与批量处理。",
+      "source": "./plugins/caj2pdf",
+      "category": "productivity",
+      "tags": ["pdf", "cnki", "caj", "document", "conversion", "chinese"]
+    },
+    {
+      "name": "aigc-reduce",
+      "description": "降低学术论文的 AIGC 查重率、减少 AI 味，定位为 AI 合规自查与写作质量优化。",
+      "source": "./plugins/aigc-reduce",
+      "category": "writing",
+      "tags": ["academic", "writing", "ai-detection", "paper", "chinese"]
+    },
+    {
+      "name": "cumcm-master",
+      "description": "以国一为标杆的数学建模（CUMCM）全流程指南：审题建模、编程求解、论文写作、LaTeX 排版、评分扣分点。",
+      "source": "./plugins/cumcm-master",
+      "category": "education",
+      "tags": ["math-modeling", "cumcm", "competition", "latex", "academic"]
+    }
+  ]
+}

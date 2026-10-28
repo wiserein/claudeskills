@@ -1,0 +1,14 @@
+{
+  "name": "caj2pdf",
+  "version": "1.0.0",
+  "description": "读取和转换中国知网（CNKI）专有文献格式，支持 CAJ/KDH/NH 的元数据读取、PDF 转换与批量处理。",
+  "skills": "./skills/",
+  "author": {
+    "name": "wiserein",
+    "url": "https://github.com/wiserein"
+  },
+  "homepage": "https://github.com/wiserein/claudeskills",
+  "repository": "https://github.com/wiserein/claudeskills",
+  "license": "MIT",
+  "keywords": ["pdf", "cnki", "caj", "document", "conversion", "chinese"]
+}

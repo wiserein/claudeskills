@@ -1,0 +1,14 @@
+{
+  "name": "aigc-reduce",
+  "version": "1.0.0",
+  "description": "降低学术论文的 AIGC 查重率、减少 AI 味，定位为 AI 合规自查与写作质量优化。",
+  "skills": "./skills/",
+  "author": {
+    "name": "wiserein",
+    "url": "https://github.com/wiserein"
+  },
+  "homepage": "https://github.com/wiserein/claudeskills",
+  "repository": "https://github.com/wiserein/claudeskills",
+  "license": "MIT",
+  "keywords": ["academic", "writing", "ai-detection", "paper", "chinese"]
+}

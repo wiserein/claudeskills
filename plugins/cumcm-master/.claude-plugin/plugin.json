@@ -1,0 +1,14 @@
+{
+  "name": "cumcm-master",
+  "version": "3.0.0",
+  "description": "以国一为标杆的数学建模（CUMCM）全流程指南：审题建模、编程求解、论文写作、LaTeX 排版、评分扣分点。",
+  "skills": "./skills/",
+  "author": {
+    "name": "wiserein",
+    "url": "https://github.com/wiserein"
+  },
+  "homepage": "https://github.com/wiserein/claudeskills",
+  "repository": "https://github.com/wiserein/claudeskills",
+  "license": "MIT",
+  "keywords": ["math-modeling", "cumcm", "competition", "latex", "academic"]
+}
